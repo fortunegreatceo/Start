@@ -1,0 +1,14 @@
+C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.exe
+C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.deps.json
+C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.runtimeconfig.json
+C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.dll
+C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\MyConsoleApp\bin\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.dll
+C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\MyConsoleApp\obj\Debug\net8.0\refint\MyConsoleApp.dll
+C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.pdb
+C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\MyConsoleApp\obj\Debug\net8.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\MyConsoleApp\obj\Debug\net8.0\ref\MyConsoleApp.dll

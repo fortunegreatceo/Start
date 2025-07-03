@@ -12,3 +12,4 @@ C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overv
 C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.pdb
 C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.genruntimeconfig.cache
 C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\DataTypes\obj\Debug\net6.0\ref\DataTypes.dll
+C:\Users\PRECISION 3541\Documents\baze university 300lv 1st semester\Start\Overview\DataTypes\obj\Debug\net6.0\DataTypes.sourcelink.json
